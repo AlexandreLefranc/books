@@ -8,3 +8,4 @@
 - Eviter de coder en musique => Distraction
 - Accepter d'être intérrompu
 - Coder en binôme a de nombreux bénéfices
+- Faire des activités créatives: Lire des livres, etc
