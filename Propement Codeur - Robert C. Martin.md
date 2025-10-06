@@ -10,3 +10,4 @@
 - Coder en binôme a de nombreux bénéfices
 - Faire des activités créatives: Lire des livres, etc
 - Produire beaucoup de bugs est non professionel => Adopter une méthodologie pour réduire ça (TDD)
+- Bloqué ? Fatigué ? Il ne faut pas s'acharner. Plutôt faire une pause, une douche, etc...
