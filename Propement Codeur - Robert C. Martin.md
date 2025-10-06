@@ -21,3 +21,22 @@
   - c'est personnellement acceptable ET
   - c'est limité dans le temps ET
   - le chef a un plan de secours si l'effort supplémentaire ne suffit pas
+- Ne jamais dire qu'on a finis si c'est n'est pas le cas => Avoir une définition indépendant de l'état d'achèvement: Des tests d'acceptations
+- Aider les autres avec bonne volonté. Proposer son aide
+- Accepter l'aide des autres. Savoir demander de l'aide
+- Si on est sénior, partager avec les juniors. Si on est junior, chercher le partage de séniors
+
+# Chapitre 5 - TDD
+
+- Les 3 lois du TDD
+  - Ecrire du code de tests en premier
+  - Arrêter d'écrire du code de test lorsque le test échoue
+  - Ecrire du code de production uniquement pour faire réussir le test
+- Avantages
+  - Certitude de ne pas avoir généré de régression
+  - Faible taux d'injection de défauts
+  - Courage et confiance pour refacto le code
+  - Documentation par l'exemple
+  - Privilégie une bonne approche de conception
+ 
+# Chapitre 6 - Entrainement
