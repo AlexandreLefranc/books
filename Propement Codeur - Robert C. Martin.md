@@ -1,6 +1,23 @@
-# Chapitre 1
-# Chapitre 2
-# Chapitre 3
+# Chapitre 1 - Professionnalisme
+
+- Etre responsable de son travail
+- Assumer ses erreurs et vouloir les réparer
+- Ne pas livrer dans la précipitation en sautant des étapes (les tests par exemple)
+- Ne faut pas nuire au fonctionnement du programme
+- Etre confiant sur le bon fonctionnement du logiciel => tester
+- Ne pas livrer (ou envoyer au service QA) un logiciel dont on sait qu'il a des bugs
+- Ne pas nuire à la structure du code source
+- Etre responsable de sa carrière et de son évolution. Ne rien attendre de la part de l'employeur.
+- Consacrer du temps personnel pour travailler ses compétences de programmation
+- Apprendre continuellement
+- Pratiquer des katas
+- Travailler avec d'autres personnes et coder en groupe
+- Transmettre aux autres
+- Connaitre le domaine d'application de son logiciel et comprendre les demandes clients
+- Etre humble
+
+# Chapitre 2 - Savoir dire NON
+# Chapitre 3 - Savoir dire OUI
 # Chapitre 4 - Coder
 
 - Ne pas coder la nuit => Il faut garder de la discipline sur le sommeil
