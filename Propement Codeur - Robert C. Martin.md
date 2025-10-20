@@ -57,3 +57,10 @@
   - Privilégie une bonne approche de conception
  
 # Chapitre 6 - Entrainement
+
+- Un développeur doit s'entrainer pour rester performant.
+- Katas : un problème dont on connait la solution visant à rendre naturel et fluide sa résolution.
+- Wazas : un kata fait à 2. Une personne écrit les tests. L'autre écrit le code.
+- Randori : Un problème à plusieurs personnes. Chacun écrit le code pour passer le test et écrit un test. La personne suivante fait passer le test et écrit un nouveau test... etc
+- Participer à des projets open-source dans un language différent que celui pour lequel on est payé.
+- L'entrainement se fait sur le temps personnel. Par le temps professionnel.
