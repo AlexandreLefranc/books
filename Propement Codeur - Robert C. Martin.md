@@ -64,3 +64,8 @@
 - Randori : Un problème à plusieurs personnes. Chacun écrit le code pour passer le test et écrit un test. La personne suivante fait passer le test et écrit un nouveau test... etc
 - Participer à des projets open-source dans un language différent que celui pour lequel on est payé.
 - L'entrainement se fait sur le temps personnel. Par le temps professionnel.
+
+# Chapitre 7 - Tests d'acceptation et recette
+
+- La communication entre développeur et client est souvent problématique. Surtout vis-à-vis des exigences, du cahier des charges.
+- 
