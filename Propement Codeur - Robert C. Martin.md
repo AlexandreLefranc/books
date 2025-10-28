@@ -68,4 +68,12 @@
 # Chapitre 7 - Tests d'acceptation et recette
 
 - La communication entre développeur et client est souvent problématique. Surtout vis-à-vis des exigences, du cahier des charges.
-- 
+- Inutile de définir des exigences trop précises trop tôt. Elles changeront. Il faut estimer avec des plages d'incertitudes.
+- Lorsqu'on définit des exigences, il peut y avoir des ambiguïtés. Pour lever ces ambiguïtés, il faut réaliser des tests d'acceptations.
+- Les tests d'acceptations sont les tests réalisé entre le développeur et les parties prenantes. Lorsque les tests d'acceptations passent, le travail est fini.
+- Le travail est fini lorsque le code est écrit, tous les tests passent, le QA a accepté le produit, les parties prenants ont acceptées le produit.
+- Les tests d'acceptations doivent être automatisés.
+- Le développeur ne commence à implémenter une fonctionnalité que lorsque les tests d'acceptations sont prêts.
+- Lorsque des tests d'acceptations semblent absurdes ou trop complexes, il faut communiquer avec l'auteur des tests pour trouver une solution.
+
+# Chapitre 8 - Stratégies de test
