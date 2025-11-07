@@ -77,3 +77,27 @@
 - Lorsque des tests d'acceptations semblent absurdes ou trop complexes, il faut communiquer avec l'auteur des tests pour trouver une solution.
 
 # Chapitre 8 - Stratégies de test
+
+- Il faut rédiger des tests. Mais avant il faut mettre en place une stratégie de tests.
+- L'objectif est que les QAs soientt bredouille.
+- Les QAs doivent spécifier et tester les happy et unhappy paths.
+- Les QAs doivent faire des tests manuels d'exploration pour vérifier le comportement effective du système.
+- Tests unitaires
+  - Idéalement écrit avec la méthode TDD.
+  - Révèle les intentions du programmeur.
+  - Couverture de code proche de 100%
+- Test des composants
+  - Correspond aux tests d'acceptations
+  - Test des règles métier
+  - Rédigé par les QAs en collab avec le métier
+- Tests d'intégration
+  - Lorsqu'il y a plusieurs composants
+  - Test l'intégration des différents composants entre eux
+  - Rédigé par les architectes système et exécuté périodiquement
+- Tests système
+  - Identique aux tests d'intégration mais en prenant en compte tous les composants = le système
+  - Confié aux architectes ou responsables techniques
+- Tests manuels d'exploration
+  - Pas automatisé et pas scripté
+  - Explorer le système pour trouver des bizarreries
+  - Tente de reproduire le comportement d'un utilisateur 
