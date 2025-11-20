@@ -101,3 +101,11 @@
   - Pas automatisé et pas scripté
   - Explorer le système pour trouver des bizarreries
   - Tente de reproduire le comportement d'un utilisateur 
+
+# Chapitre 9 - Gestion du temps
+
+## Réunions
+
+- Assister seulement aux réunions qui ont un intéret immédiat
+- Aller uniquement au réunions avec un ordre du jour et objectif
+- Partir poliment si la réunion n'a plus d'intérêt
