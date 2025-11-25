@@ -109,3 +109,19 @@
 - Assister seulement aux réunions qui ont un intéret immédiat
 - Aller uniquement au réunions avec un ordre du jour et objectif
 - Partir poliment si la réunion n'a plus d'intérêt
+
+## Concentration
+
+- Bien dormir
+- Faire des exercices physiques
+- Faire des pauses
+
+## Blocs de temps
+
+- Travailler sans discraction pendant 25 mins puis faire une pause de 5 mins
+- Tous les 4 cycles, faire une pause de ~30 mins
+
+## Autres points
+
+- Ne pas se trouver des excuses pour ne pas faire une tâche désagréable
+- Lorsqu'on voit qu'on se dirige vers une impasse ou un bourbier, il faut savoir faire marche arrière le plus tôt possible.
