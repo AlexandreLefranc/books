@@ -125,3 +125,38 @@
 
 - Ne pas se trouver des excuses pour ne pas faire une tâche désagréable
 - Lorsqu'on voit qu'on se dirige vers une impasse ou un bourbier, il faut savoir faire marche arrière le plus tôt possible.
+
+# Chapitre 10 - Estimations
+
+- Un engagement doit être tenu
+- Une hypothèse est représenté par une loi de probabilité
+- Une estimation doit être une hypothèse, pas un engagement
+
+## Technique PERT (Program Evaluation and Review Technique)
+
+- Il s'agit une méthode d'estimation des delais
+
+O = Estimation très optimiste;
+N = Estimation nominale;
+P = Estimation très pessimiste
+
+$$ \mu = \frac{O + 4N + P}{6} $$
+
+$\mu$ est la durée de la tâche attendue
+
+## Technique d'estimation des tâches
+
+Demander plusieurs avis sur une estimation est toujours mieux
+
+- [Estimation de Delphes à large bande](https://fr.wikipedia.org/wiki/M%C3%A9thode_de_Delphes)
+- Les doigts de vote : estime avec les doigts (0 à 5) et on discute en cas de désaccord
+- Planning Poker : Variante populaire des doigts de vote avec des valeurs prédéfinie
+- Estimation d'affinités
+
+## Loi des grands nombres
+
+- On obtient de meilleurs estimations si on divise une grande tâche en plusieurs petites tâches
+
+
+
+
