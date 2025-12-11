@@ -157,6 +157,16 @@ Demander plusieurs avis sur une estimation est toujours mieux
 
 - On obtient de meilleurs estimations si on divise une grande tâche en plusieurs petites tâches
 
+# Chapitre 11 - Pression
 
+## Eviter la pression
 
+- Eviter de s'engager si on est pas sûr
+- Garder une discipline de code, même au cours d'une crise
 
+## Gérer la pression
+
+- Inutile d'augmenter démesurément le volume horaire
+- Communiquer avec les collègues et supérieurs
+- Garder une discipline de code
+- Demander de l'aide et coder en binôme
