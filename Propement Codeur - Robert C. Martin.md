@@ -170,3 +170,10 @@ Demander plusieurs avis sur une estimation est toujours mieux
 - Communiquer avec les collègues et supérieurs
 - Garder une discipline de code
 - Demander de l'aide et coder en binôme
+
+# Chapitre 12 - Collaboration et coopération
+
+- Ne pas oublier l'objectif de l'entreprise
+- Il est important de travailler avec les autres programmeurs
+  - Considérer le code comme une propriété collective. Il n'appartient pas à celui qui l'a écrit.
+  - Travailler en binome pour être plus efficace, et partager les connaissances
