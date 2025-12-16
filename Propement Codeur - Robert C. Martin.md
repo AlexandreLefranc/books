@@ -177,3 +177,11 @@ Demander plusieurs avis sur une estimation est toujours mieux
 - Il est important de travailler avec les autres programmeurs
   - Considérer le code comme une propriété collective. Il n'appartient pas à celui qui l'a écrit.
   - Travailler en binome pour être plus efficace, et partager les connaissances
+
+# Chapitre 13 - Equipes et projets
+
+- Equipe idéale : 12 personnes (7 devs, 2 testeurs, 2 analystes, 1 chef de projet)
+- Il faut 6 mois à 1 an pour que l'équipe arrive bien à travailler ensemble
+  - Lorsqu'une équipe marche, il faut éviter de la démanteler, même le projet fini
+  - Il faut attribuer un nouveau projet à une équipe existante, pas une nouvelle équipe à un projet.
+- Une équipe rodée peut facilement travailler sur plusieurs projets en parallèle
