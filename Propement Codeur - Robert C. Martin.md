@@ -185,3 +185,10 @@ Demander plusieurs avis sur une estimation est toujours mieux
   - Lorsqu'une équipe marche, il faut éviter de la démanteler, même le projet fini
   - Il faut attribuer un nouveau projet à une équipe existante, pas une nouvelle équipe à un projet.
 - Une équipe rodée peut facilement travailler sur plusieurs projets en parallèle
+
+# Chapitre 14 - Guides, apprentis et artisans
+
+- L'apprentissage de la théorie de suffit pas
+- Il est important d'apprendre la pratique de la programmation avec un mentor
+
+
