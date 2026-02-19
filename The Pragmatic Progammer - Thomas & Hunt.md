@@ -23,3 +23,13 @@ Don't stay passive. Be proactive.
 - If things don't go as expected, provide solutions, not excuses
 
 > **Tip 4 - Provide Options, Don't Make Lame Excuses**
+
+## Topic 3 - Software Entropy
+
+- Software Entropy = Software rot = Technical Debt
+- Many factors but the most important is the **broken window**
+  - Once there is a broken window (bad designs, wrong decisions, poor code), things get worse very quickly
+ 
+> **Tip  - Don't Live With Broken Windows**
+
+- Even under pressure, we should not break windows
