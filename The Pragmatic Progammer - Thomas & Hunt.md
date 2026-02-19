@@ -30,6 +30,6 @@ Don't stay passive. Be proactive.
 - Many factors but the most important is the **broken window**
   - Once there is a broken window (bad designs, wrong decisions, poor code), things get worse very quickly
  
-> **Tip  - Don't Live With Broken Windows**
+> **Tip 5 - Don't Live With Broken Windows**
 
 - Even under pressure, we should not break windows
