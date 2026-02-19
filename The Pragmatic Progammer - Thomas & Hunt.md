@@ -33,3 +33,28 @@ Don't stay passive. Be proactive.
 > **Tip 5 - Don't Live With Broken Windows**
 
 - Even under pressure, we should not break windows
+
+## Topic 4 - Stone Soup and Boiled Frogs
+
+- Use manipulative techniques to get what you want.
+- 'It's easier to ask forgiveness than it is to get permission' Dr. Grace Hopper
+
+> **Tip 6 - Be a Catalyst for Change**
+
+- Projects drift little by little without noticing it
+- You might be the manipulated one
+
+> **Tip 7 - Remember the Big Picture**
+
+
+## Topic 5 - Good-Enough Software
+
+- We cannot produce perfect software
+- Good-Enough does not mean sloppy !
+- Good-enough for the user, future maintainers and your-self
+- User should decide when the software is good enough
+
+> **Tip 8 - Make Quality a Requirements Issue**
+
+- Great software today is often preferable to perfect software tomorrow
+- Don't overembellish or overefine your program
