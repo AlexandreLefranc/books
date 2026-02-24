@@ -58,3 +58,18 @@ Don't stay passive. Be proactive.
 
 - Great software today is often preferable to perfect software tomorrow
 - Don't overembellish or overefine your program
+
+## Topic 6 - Your Knowledge Portfolio
+
+- Knowledge assets are expiring over time
+- To keep your knowledge portfolio up to date, you have to:
+  - Invest regularly: Keep learning
+  - Diversify: New technologies, soft skills...
+  - Manage risk: Some knowledge might never be in demand, some may become very popular
+  - Review and rebalance regularly
+
+> **Tip 9 - Invest Regularly in Your Knowledge Portfolio**
+
+You can learn new language, read technical and non-technical books, read articles, meet others, try different tools.
+
+> **Tip 10 - Critically Analyze What You Read And Hear**
