@@ -73,3 +73,5 @@ Don't stay passive. Be proactive.
 You can learn new language, read technical and non-technical books, read articles, meet others, try different tools.
 
 > **Tip 10 - Critically Analyze What You Read And Hear**
+
+Find root cause, find who does this benefit, consider context and use cases
