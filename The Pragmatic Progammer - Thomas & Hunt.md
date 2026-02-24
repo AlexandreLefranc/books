@@ -75,3 +75,19 @@ You can learn new language, read technical and non-technical books, read article
 > **Tip 10 - Critically Analyze What You Read And Hear**
 
 Find root cause, find who does this benefit, consider context and use cases
+
+## Topic 7 - Communicate!
+
+> **Tip 11 - English is Just Another Programming Language**
+
+- Consider the audience to convey your idea as effectively as possible
+- Plan what you want to say, and how
+- Choose good moment
+- Get back to people
+
+> **Tip 12 - It's Both What You Say and Way You Say It**
+
+- Documentation is a kind of communcation. It is in the code.
+
+> **Tip 13 - Build Documentation In, Don't Bolt It On**
+
