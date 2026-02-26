@@ -91,3 +91,11 @@ Find root cause, find who does this benefit, consider context and use cases
 
 > **Tip 13 - Build Documentation In, Don't Bolt It On**
 
+# Chapter 2 - A Programtic Approach
+
+## Topic 8 - The Essence of Good Design
+
+> **Tip 14 - Good Design is Easier to Change Than Bad Design**
+
+- ETC principle: Easier To Change
+- This is the god principle. All designs are meant to make things easier to change.
