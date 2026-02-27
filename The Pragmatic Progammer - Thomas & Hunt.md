@@ -99,3 +99,22 @@ Find root cause, find who does this benefit, consider context and use cases
 
 - ETC principle: Easier To Change
 - This is the god principle. All designs are meant to make things easier to change.
+
+## Topic 9 - DRY - The Evils of Duplication
+
+- Do not duplicate **knowledge**, **intent** !
+
+> **Tip 15 - DRY -- Don't Repeat Yourself**
+
+- If a specification change, it should only be changed once in the codebase
+- Not all duplication is knowledge duplication. Two different knowledges can have the same rules, so the same code, but this is still 2 knowledge. Ex: 2 fields having the same validation rules.
+- Don't duplicate intent in comments where intent is already in code.
+- Often, communicating with an API leads to a DRY violation: endpoints, schemas, etc... are defined both in API client and server. This is inevitable but:
+  - In case of internal API, you can use shared modules
+  - In case of external API, you can use formal documentation (OpenAPI)
+
+> **Tip 16 - Make It Easy to Reuse**
+
+- Another form of DRY violation is knoweldge implemented by two developers independently. You need to communicate and make it easy to reuse by another developer.
+
+## Topic 10 - Orthogonality
