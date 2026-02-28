@@ -123,3 +123,5 @@ Find root cause, find who does this benefit, consider context and use cases
 
 > **Tip 17 - Eliminate Effects Between Unrelated Things**
 
+- Gain productivity: localized changes, reusable
+- Reduce risk: problems are isolated
