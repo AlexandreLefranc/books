@@ -126,3 +126,4 @@ Find root cause, find who does this benefit, consider context and use cases
 - Gain productivity: localized changes, reusable
 - Reduce risk: problems are isolated
 - In code: write shy code, avoid globals, avoid similar functions
+- In a orthogonal system, modules should be easy to test
