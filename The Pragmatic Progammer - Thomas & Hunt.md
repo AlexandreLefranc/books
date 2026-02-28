@@ -136,3 +136,5 @@ Find root cause, find who does this benefit, consider context and use cases
 
 - Databases should be abstracted to make it easy to change
 - Hide third-party behind abstraction layers
+
+> **Tip 19 - Stop Following Trends**
