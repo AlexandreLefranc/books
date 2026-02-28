@@ -118,3 +118,8 @@ Find root cause, find who does this benefit, consider context and use cases
 - Another form of DRY violation is knoweldge implemented by two developers independently. You need to communicate and make it easy to reuse by another developer.
 
 ## Topic 10 - Orthogonality
+
+- Two or more things are orthogonal is changes in one do not affect any of the others. 
+
+> **Tip 17 - Eliminate Effects Between Unrelated Things**
+
