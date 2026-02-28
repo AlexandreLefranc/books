@@ -127,3 +127,12 @@ Find root cause, find who does this benefit, consider context and use cases
 - Reduce risk: problems are isolated
 - In code: write shy code, avoid globals, avoid similar functions
 - In a orthogonal system, modules should be easy to test
+
+## Topic 11 - Reversibility
+
+- Critical decisions are not easily reversible and for some reason, they will be changed
+
+> **Tip 18 - There Are No Final Decision**
+
+- Databases should be abstracted to make it easy to change
+- Hide third-party behind abstraction layers
