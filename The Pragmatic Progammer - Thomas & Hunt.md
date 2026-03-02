@@ -147,3 +147,6 @@ Find root cause, find who does this benefit, consider context and use cases
 
 - Implement the minimum to make it work
 - Implement features when you need it
+- Users are involved early, getting feedback
+- Integration is incremental, not a big bang (CI)
+- You have something to show and be proud of
