@@ -144,3 +144,6 @@ Find root cause, find who does this benefit, consider context and use cases
 - Tracer bullet development = development with immediate feedback under actual conditions with a moving goal
 
 > **Tip 20 - Use Tracer Bullets to Find the Target**
+
+- Implement the minimum to make it work
+- Implement features when you need it
