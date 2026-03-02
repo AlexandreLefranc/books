@@ -138,3 +138,7 @@ Find root cause, find who does this benefit, consider context and use cases
 - Hide third-party behind abstraction layers
 
 > **Tip 19 - Stop Following Trends**
+
+## Topic 12 - Tracer Bullets
+
+- Tracer bullet development = development with immediate feedback under actual conditions with a moving goal
