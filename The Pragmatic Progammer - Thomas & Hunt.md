@@ -157,3 +157,5 @@ Find root cause, find who does this benefit, consider context and use cases
 - Prototype something risky to avoid to much commitment
 
 > **Tip 21 - Prototype to Learn**
+
+- To Prototype architecture, you can use post it
