@@ -153,7 +153,7 @@ Find root cause, find who does this benefit, consider context and use cases
 
 ## Topic 13 - Prototypes and Post-it Notes
 
-- Prototype = simplified, focused and minimized version of something
+- Prototype = disposable, simplified, focused and minimized version of something
 - Prototype something risky to avoid to much commitment
 
 > **Tip 21 - Prototype to Learn**
