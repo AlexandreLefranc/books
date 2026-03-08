@@ -168,3 +168,6 @@ Find root cause, find who does this benefit, consider context and use cases
 
 - Internal Domain Language = domain is described directly with the implementation language (example: Express.js, bash, Vitest)
 - External Domain Language = domain is described using a dedicated language (example: OpenAPI, Ansible, Cucumber)
+- Recommand to use external language only if domain has to be described by the users
+
+## Topic 15 - Estimating
