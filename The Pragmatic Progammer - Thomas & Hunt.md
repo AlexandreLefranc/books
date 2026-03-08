@@ -171,3 +171,7 @@ Find root cause, find who does this benefit, consider context and use cases
 - Recommand to use external language only if domain has to be described by the users
 
 ## Topic 15 - Estimating
+
+> **Tip 23 - Estimate to Avoid Surprise**
+
+- Units used gives how accurate is the estimate. ~130 days is more accurate than ~6 months, even though it is equivalent
