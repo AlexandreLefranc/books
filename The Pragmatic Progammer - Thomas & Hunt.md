@@ -159,3 +159,12 @@ Find root cause, find who does this benefit, consider context and use cases
 > **Tip 21 - Prototype to Learn**
 
 - To Prototype architecture, you can use post it
+
+## Topic 14 - Domain Languages
+
+- Each programming language has characteristics that will influence how you solve problems
+
+> **Tip 22 - Program Close to the Problem Domain**
+
+- Internal Domain Language = domain is described directly with the implementation language (example: Express.js, bash, Vitest)
+- External Domain Language = domain is described using a dedicated language (example: OpenAPI, Ansible, Cucumber)
