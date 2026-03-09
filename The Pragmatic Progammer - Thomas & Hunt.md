@@ -185,3 +185,14 @@ Find root cause, find who does this benefit, consider context and use cases
 
 
 # Chapter 3 - The Basic Tools
+
+## Topic 16 - The Power of Plain Text
+
+- Source code, designs, tests, etc... should be as independent as possible of external tools => plain text does the job
+
+> **Tip 25 - Keep Knowledge in Plain Text**
+
+- Plain text does not mean unstructured (HTML, HTTP, JSON)
+
+## Topic 17 - Shell Games
+
