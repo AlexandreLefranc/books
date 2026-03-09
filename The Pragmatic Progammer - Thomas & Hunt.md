@@ -182,3 +182,6 @@ Find root cause, find who does this benefit, consider context and use cases
 - For large estimates, iterate through it
 
 > **Tip 24 - Iterate the Schedule with the Code**
+
+
+# Chapter 3 - The Basic Tools
