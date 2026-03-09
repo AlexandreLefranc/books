@@ -175,3 +175,7 @@ Find root cause, find who does this benefit, consider context and use cases
 > **Tip 23 - Estimate to Avoid Surprise**
 
 - Units used gives how accurate is the estimate. ~130 days is more accurate than ~6 months, even though it is equivalent
+- To have good estimates:
+  - Favor asking someone who has already done it
+  - Understand what is being asked, and its scope
+  - Modelize, find parameters and express estimates based on these parameters 
