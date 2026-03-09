@@ -179,3 +179,6 @@ Find root cause, find who does this benefit, consider context and use cases
   - Favor asking someone who has already done it
   - Understand what is being asked, and its scope
   - Modelize, find parameters and express estimates based on these parameters 
+- For large estimates, iterate through it
+
+> **Tip 24 - Iterate the Schedule with the Code**
