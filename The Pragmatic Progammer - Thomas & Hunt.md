@@ -202,3 +202,9 @@ Find root cause, find who does this benefit, consider context and use cases
 > **Tip 26 - Use the Power of Command Shells**
 
 - Customize your terminal: alias, function, theme
+
+## Topic 18 - Power Editing
+
+- Editing text file should be intuitive, fluent
+
+## Topic 19 - Version Control
