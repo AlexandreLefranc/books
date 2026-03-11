@@ -207,4 +207,13 @@ Find root cause, find who does this benefit, consider context and use cases
 
 - Editing text file should be intuitive, fluent
 
+> **Tip 27 - Achieve Editor Fluency**
+
 ## Topic 19 - Version Control
+
+> **Tip 28 - Always Use Version Control**
+
+- Use branches
+
+## Topic 20 - Debugging
+
