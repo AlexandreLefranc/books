@@ -196,3 +196,9 @@ Find root cause, find who does this benefit, consider context and use cases
 
 ## Topic 17 - Shell Games
 
+- GUI is great for productivity
+- CLI is great for productivity if you need custom actions not provided in GUI tools
+
+> **Tip 26 - Use the Power of Command Shells**
+
+- Customize your terminal: alias, function, theme
