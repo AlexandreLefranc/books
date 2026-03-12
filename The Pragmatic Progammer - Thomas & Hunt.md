@@ -237,3 +237,5 @@ Find root cause, find who does this benefit, consider context and use cases
 > **Tip 33 - "select" Isn't Broken**
 
 > **Tip 34 - Don't Assume It - Prove It**
+
+## Topic 21 - Text Manipulation 
