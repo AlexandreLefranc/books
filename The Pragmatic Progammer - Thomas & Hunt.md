@@ -217,3 +217,14 @@ Find root cause, find who does this benefit, consider context and use cases
 
 ## Topic 20 - Debugging
 
+- See debugging has problem solving task
+
+> **Tip 29 - Fix the Problem, Not the Blame**
+
+> **Tip 30 - Don't Panic**
+
+- Fix the cause. Don't fix symptoms 
+- Get accurate bug report. This might require to watch the user triggering the bug
+- Reproduce the bug in a test
+
+> **Tip 31 - Failing Test Before Fixing Code**
