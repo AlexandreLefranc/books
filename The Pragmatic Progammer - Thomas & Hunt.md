@@ -238,4 +238,6 @@ Find root cause, find who does this benefit, consider context and use cases
 
 > **Tip 34 - Don't Assume It - Prove It**
 
-## Topic 21 - Text Manipulation 
+## Topic 21 - Text Manipulation
+
+> **Tip 35 - Learn a Text Manipulation Language**
