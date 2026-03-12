@@ -225,6 +225,8 @@ Find root cause, find who does this benefit, consider context and use cases
 
 - Fix the cause. Don't fix symptoms 
 - Get accurate bug report. This might require to watch the user triggering the bug
-- Reproduce the bug in a test
+- Reproduce and isolate the bug in a test
 
 > **Tip 31 - Failing Test Before Fixing Code**
+
+> **Tip 32 - Read the Damn Error Message**
