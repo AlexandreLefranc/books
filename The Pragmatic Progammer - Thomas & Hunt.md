@@ -241,3 +241,9 @@ Find root cause, find who does this benefit, consider context and use cases
 ## Topic 21 - Text Manipulation
 
 > **Tip 35 - Learn a Text Manipulation Language**
+
+## Topic 22 - Engineering Daybooks
+
+- Write down things 
+
+# Chapter 4 - Pragmatic Paranoia
