@@ -230,3 +230,8 @@ Find root cause, find who does this benefit, consider context and use cases
 > **Tip 31 - Failing Test Before Fixing Code**
 
 > **Tip 32 - Read the Damn Error Message**
+
+- Use debugger, use print, explain the problem to a rubber duck
+- Resist temptation to say too early 3rd-party or system calls have a bug
+
+> **Tip 33 - "select" Isn't Broken**
