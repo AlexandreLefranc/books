@@ -235,3 +235,5 @@ Find root cause, find who does this benefit, consider context and use cases
 - Resist temptation to say too early 3rd-party or system calls have a bug
 
 > **Tip 33 - "select" Isn't Broken**
+
+> **Tip 34 - Don't Assume It - Prove It**
