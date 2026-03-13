@@ -260,3 +260,16 @@ Find root cause, find who does this benefit, consider context and use cases
 
 - DBC forces you to think 
 - If contract is not honored, a common solution is to crash early
+
+## Topic 24 - Dead Programs Tell No Lies
+
+> **Tip 38 - Crash Early**
+
+- Dead program does less damage then a crippled one
+
+## Topic 25 - Assertive Programming
+
+- If you think something will never happen, check it brutally
+- Keep assertions in production to find hard to reproduce bug
+
+> **Tip 39 - Use Assertions to Prevent the Impossible**
