@@ -247,3 +247,13 @@ Find root cause, find who does this benefit, consider context and use cases
 - Write down things 
 
 # Chapter 4 - Pragmatic Paranoia
+
+> **Tip 36 - You Can't Write Perfect Software**
+
+## Topic 23 - Design by Contract
+
+- Modules should have contracts:
+  - preconditions defining what you have to provide
+  - postcondition defining what the module does 
+
+> **Tip 37 - Design With Contracts**
