@@ -259,3 +259,4 @@ Find root cause, find who does this benefit, consider context and use cases
 > **Tip 37 - Design With Contracts**
 
 - DBC forces you to think 
+- If contract is not honored, a common solution is to crash early
