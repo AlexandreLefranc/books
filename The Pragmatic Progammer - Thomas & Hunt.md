@@ -257,3 +257,5 @@ Find root cause, find who does this benefit, consider context and use cases
   - postcondition defining what the module does 
 
 > **Tip 37 - Design With Contracts**
+
+- DBC forces you to think 
