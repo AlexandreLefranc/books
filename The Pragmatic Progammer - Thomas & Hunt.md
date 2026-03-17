@@ -309,3 +309,9 @@ Find root cause, find who does this benefit, consider context and use cases
 - Law of Demeter: method in a class should not know more than other method of that class, its parameters, methods in objects it creates
 
 > **Tip 47 - Avoid Global Data**
+
+- Global Data = variables, singleton, external resources (db, fs, ...)
+
+> **Tip 48 - If It's Important Enough to Be Global, Wrap It in an API**
+
+- Inheritance adds coupling 
