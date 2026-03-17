@@ -304,3 +304,8 @@ Find root cause, find who does this benefit, consider context and use cases
 
 - Don't expose implementation. Access et make action through dedicated methods
 
+> **Tip 46 - Don't Chain Method Calls**
+
+- Law of Demeter: method in a class should not know more than other method of that class, its parameters, methods in objects it creates
+
+> **Tip 47 - Avoid Global Data**
