@@ -300,3 +300,7 @@ Find root cause, find who does this benefit, consider context and use cases
 
 > **Tip 44 - Decoupled Code Is Easier to Change**
 
+> **Tip 45 - Tell, Don't Ask**
+
+- Don't expose implementation. Access et make action through dedicated methods
+
