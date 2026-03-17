@@ -293,3 +293,10 @@ Find root cause, find who does this benefit, consider context and use cases
 
 
 # Chapter 5 - Bend, or Break
+
+## Topic 28 - Decoupling
+
+- You want your software to be flexible
+
+> **Tip 44 - Decoupled Code Is Easier to Change**
+
