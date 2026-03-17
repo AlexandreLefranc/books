@@ -281,3 +281,15 @@ Find root cause, find who does this benefit, consider context and use cases
 - Function that allocate/open resources should deallocate/close it
 
 > **Tip 41 - Act Locally**
+
+## Topic 27 - Don't Outrun Your Headlights
+
+> **Tip 42 - Take Small Steps -- Always**
+
+- Rely on feedback to be sure you are in the good direction 
+- Because you don't know if what you do will still be revelant in the future, make your code replaceable
+
+> **Tip 43 - Avoid Fortune-Telling**
+
+
+# Chapter 5 - Bend, or Break
