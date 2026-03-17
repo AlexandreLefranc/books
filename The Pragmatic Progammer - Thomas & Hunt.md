@@ -273,3 +273,11 @@ Find root cause, find who does this benefit, consider context and use cases
 - Keep assertions in production to find hard to reproduce bug
 
 > **Tip 39 - Use Assertions to Prevent the Impossible**
+
+## Topic 26 - How to Balance Resources
+
+> **Tip 40 - Finish What You Start**
+
+- Function that allocate/open resources should deallocate/close it
+
+> **Tip 41 - Act Locally**
