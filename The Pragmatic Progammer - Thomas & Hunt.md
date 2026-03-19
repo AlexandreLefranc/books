@@ -360,3 +360,27 @@ Find root cause, find who does this benefit, consider context and use cases
 - Wrap configs behind a service API
 
 # Chapter 6 - Concurrency
+
+- concurrency: execution of 2 or more pieces of code act as if they run at the same time
+- parallelism: they do run at the same time
+
+## Topic 33 - Breaking Temporal Coupling
+
+> **Tip 56 - Analyze Workflow to Improve Concurrency**
+
+- Use UML activity diagram to model concurrent tasks
+
+## Topic 34 - Shared State Is Incorrect State
+
+- Concurrent mutations quickly lead to incorrect state
+
+> **Tip 57 - Shared State Is Incorrect State**
+
+- Use Mutual Exclusion (mutex) and semaphores
+- Move the semaphore/mutex as close as possible to the resources. Don't let consumers handle the semaphore/mutex because at some point, consumers will forget to lock the resource
+
+> **Tip 58 - Random Failures Are Often Concurrency Issues**
+
+- As it is hard to correctly implement concurrency, avoid to go it if not mandatory
+
+## Topic 35 - Actors and Processes
