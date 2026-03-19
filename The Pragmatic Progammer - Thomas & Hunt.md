@@ -315,3 +315,12 @@ Find root cause, find who does this benefit, consider context and use cases
 > **Tip 48 - If It's Important Enough to Be Global, Wrap It in an API**
 
 - Inheritance adds coupling 
+
+## Topic 29 - Juggling the Real World
+
+- World is full of "events". Code must handle events
+- Can use Finite State Machine
+- Can use observer pattern (coupling but explicit relation) or publish/subscribe (loose coupling but implicit relation)
+- Can use reactive programming and streams (RxJs)
+
+## Topic 30 - Transforming Programming
