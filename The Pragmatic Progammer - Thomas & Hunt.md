@@ -384,3 +384,15 @@ Find root cause, find who does this benefit, consider context and use cases
 - As it is hard to correctly implement concurrency, avoid to go it if not mandatory
 
 ## Topic 35 - Actors and Processes
+
+- One way to solve concurrency issues without mutex is using actors: independent entities with its own private state and can interact with other actors
+
+> **Tip 59 - Use Actors For Concurrency Without Shared State**
+
+- cf book for concrete example
+
+## Topic 36 - Blackboards
+
+- Analogy with detective blackboard.
+
+> **Tip 60 - Use Blackboards to Coordinate Workflow**
