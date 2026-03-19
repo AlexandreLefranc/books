@@ -334,3 +334,20 @@ Find root cause, find who does this benefit, consider context and use cases
 > **Tip 50 - Don't Hoard State; Pass It Around**
 
 - Think code as a series of transformations
+
+## Topic 31 - Inheritance Tax
+
+- Inheritance is coupling
+
+> **Tip 51 - Don't Pay Inheritance Tax**
+
+- Alternatives can be
+  - Interface: define shared behaviors but not the implementation
+  - Délégation: create wrapper to extend capabilities
+  - Mixins: create reusable functionality set
+
+> **Tip 52 - Prefer Interfaces to Express Polymorphism**
+
+> **Tip 53 - Delegate to Services: Has-A Trumps Is-A**
+
+> **Tip 54 - Use Mixins to Share Functionality**
