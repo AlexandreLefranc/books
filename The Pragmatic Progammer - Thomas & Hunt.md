@@ -324,3 +324,13 @@ Find root cause, find who does this benefit, consider context and use cases
 - Can use reactive programming and streams (RxJs)
 
 ## Topic 30 - Transforming Programming
+
+- Think programs as transformation machines taking input data and transform it into output data 
+
+> **Tip 49 - Programming is About Code, But Programs Are About Data**
+
+- OOP hides data which can create coupling
+
+> **Tip 50 - Don't Hoard State; Pass It Around**
+
+- Think code as a series of transformations
