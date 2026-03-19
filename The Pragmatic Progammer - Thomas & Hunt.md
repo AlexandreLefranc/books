@@ -351,3 +351,12 @@ Find root cause, find who does this benefit, consider context and use cases
 > **Tip 53 - Delegate to Services: Has-A Trumps Is-A**
 
 > **Tip 54 - Use Mixins to Share Functionality**
+
+## Topic 32 - Configuration 
+
+> **Tip 55 - Parametrize Your App Using External Configuration**
+
+- Configuration can be store in a plain text file or in database (if you want the customer to change it) 
+- Wrap configs behind a service API
+
+# Chapter 6 - Concurrency
