@@ -396,3 +396,14 @@ Find root cause, find who does this benefit, consider context and use cases
 - Analogy with detective blackboard.
 
 > **Tip 60 - Use Blackboards to Coordinate Workflow**
+
+# Chapter 7 - While You Are Coding
+
+## Topic 37 - Listen to Your Lizard Brain
+
+- Sometimes you don't feel comfortable with what your are coding but don't know why: Have a break, sleep, or talk to someone/something. The reason might come out
+
+> **Tip 61 - Listen to Your Inner Lizard**
+
+## Topic 38 - Programming by Coincidence
+
