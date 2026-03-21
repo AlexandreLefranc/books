@@ -407,3 +407,8 @@ Find root cause, find who does this benefit, consider context and use cases
 
 ## Topic 38 - Programming by Coincidence
 
+- Programming by Coincidence is when it works but you don't know why 
+- If you are not sure why it works, you won't know why it fails
+- Use documented API, if not, write down your assumption in a comment
+
+> **Tip 62 - Don't Program by Coincidence**
