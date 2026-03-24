@@ -412,3 +412,27 @@ Find root cause, find who does this benefit, consider context and use cases
 - Use documented API, if not, write down your assumption in a comment
 
 > **Tip 62 - Don't Program by Coincidence**
+
+## Topic 39 - Algorithm Speed
+
+- Use Big-O notation 
+
+> **Tip 63 - Estimate the Order of Your Algorithms**
+
+> **Tip 64 - Test Your Estimates**
+
+- Best algorithm might now be the good fit depending on your input size
+- Be wary of premature optimization. Check what is the bottleneck
+
+## Topic 40 - Refactoring
+
+- Code is like a garden, it always need adjustments
+- Refactor as soon as you identify a wrong design
+
+> **Tip 65 - Refactor Early, Refactor Often**
+
+- Don't try to refactor and add functionality at the same time
+- Make sure you have good tests before refactoring
+- Refactor using small refactoring actions
+
+## Topic 41 - Test to Code
