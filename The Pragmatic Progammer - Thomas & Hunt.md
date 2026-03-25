@@ -436,3 +436,32 @@ Find root cause, find who does this benefit, consider context and use cases
 - Refactor using small refactoring actions
 
 ## Topic 41 - Test to Code
+
+- Need to code in a way that it is easily testable. So you need to think about tests first
+
+> **Tip 66 - Testing in Not About Finding Bugs**
+
+- TDD is an more extreme position where you don't think about tests first but you write them first
+
+> **Tip 67 - A Test is the First User of Your Code**
+
+> **Tip 68 - Build End-to-End, Not Top-Down or Bottom-Up**
+
+- Unit tests are tests done within each module, in isolation
+- Unit test should test a contract unit (cf Topic 23)
+
+> **Tip 69 - Design to Test**
+
+- If unit testing a complex component, test its subcomponents first
+- Add a way to view state of production app
+  - Formatted logs
+  - Secret action to enable debugging view
+- Never let failing test live
+- Treat test code with the same care as any production code
+
+> **Tip 70 - Test Your Software, or Your Users Will**
+
+- Programming = Testing + Design + Coding
+
+## Topic 42 - Property-Based Testing
+
