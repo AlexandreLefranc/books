@@ -486,3 +486,13 @@ Find root cause, find who does this benefit, consider context and use cases
 - Consider using a 3rd party authentication provider 
 
 ## Topic 44 - Naming Things
+
+- Names reveal intent and belief
+- Avoid generic names (instead of `user`, use `customer` or `seller`)
+- Name should express why and not what
+- Consistency over convention
+- If intent change, rename
+
+> **Tip 74 - Name Well; Rename When Needed**
+
+# Chapter 8 - Before the Project
