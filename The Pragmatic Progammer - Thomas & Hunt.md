@@ -471,3 +471,18 @@ Find root cause, find who does this benefit, consider context and use cases
 > **Tip 71 - Use Property-Based Tests to Validate Your Assumptions**
 
 ## Topic 43 - Stay Safe Out There
+
+- Be paranoid
+- Minimize attack surface: simple code, sanitized input and output, avoid unauthenticated services, remove unused services and users, don't expose debugging info
+- Principle of Least Privilege: use the least amount of privilege to complete a job
+- Secure defaults
+- Encrypt sensitive data and don't expose on internet credentials
+- Maintain security updated
+
+> **Tip 72 - Keep it Simple and Minimized Attack Surface**
+
+> **Tip 73 - Apply Security Patched Quickly**
+
+- Consider using a 3rd party authentication provider 
+
+## Topic 44 - Naming Things
