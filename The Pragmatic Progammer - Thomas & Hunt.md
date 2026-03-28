@@ -465,3 +465,9 @@ Find root cause, find who does this benefit, consider context and use cases
 
 ## Topic 42 - Property-Based Testing
 
+- Unit tests have a flaw: your code and your tests might be wrong
+- Identify properties (contracts + invariants) and use them to create broader tests with randomly generated inputs
+
+> **Tip 71 - Use Property-Based Tests to Validate Your Assumptions**
+
+## Topic 43 - Stay Safe Out There
