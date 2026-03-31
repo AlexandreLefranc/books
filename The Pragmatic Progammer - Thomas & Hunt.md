@@ -496,3 +496,31 @@ Find root cause, find who does this benefit, consider context and use cases
 > **Tip 74 - Name Well; Rename When Needed**
 
 # Chapter 8 - Before the Project
+
+## Topic 45 - The Requirements Pit
+
+- Requirements are usually not known, even for the client
+
+> **Tip 75 - No One Knows Exactly What They Want**
+
+- Programmers must challenge client statements to work out the requirements. If a client need seems too specific, dig to know the underlying reason. Ask "why?"
+
+> **Tip 76 - Programmers Help People Understand What They Want**
+
+- Use iterative feedback loop with the client to work out requirements
+
+> **Tip 77 - Requirements Are Learned in a Feedback Loop**
+
+- Create user stories with the client
+
+> **Tip 78 - Work with a User to Think Like a User**
+
+> **Tip 79 - Policy is Metadata**
+
+- Requirements are not architecture. 
+
+> **Tip 80 - Use a Project Glossary**
+
+
+## Topic 46 - Solving Impossible Puzzles
+
