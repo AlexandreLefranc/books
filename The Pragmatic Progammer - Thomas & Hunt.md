@@ -547,3 +547,26 @@ Find root cause, find who does this benefit, consider context and use cases
 - Agile is being able to respond to change
 - Agile is not about processes 
 - Work out where you are -> Make small step toward your objectif -> Reevaluate and fix broken things -> Loop 
+
+
+# Chapter 9 - Pragmatic Projects
+
+## Topic 49 - Pragmatic Teams
+
+- Good size ~= 10-12 members 
+
+> **Tip 84 - Maintain Small, Stable Teams**
+
+- Be responsible for code quality, as a team
+- Plan time to improve team knowledge and skills
+
+> **Tip 85 - Schedule It to Make It Happen**
+
+- Brand your team and communicate as team entity
+- Be reactive 
+
+> **Tip 86 - Organize Fully Functional Teams**
+
+- Automate if possible: formatting, tests, deployment...
+
+## Topic 50 - Coconuts Don't Cut It
