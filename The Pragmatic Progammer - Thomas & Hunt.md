@@ -532,3 +532,18 @@ Find root cause, find who does this benefit, consider context and use cases
 - Have breaks, sleep, or rubber duck
 
 ## Topic 47 - Working Together
+
+- Try Pair and Mob Programming
+- Don't involve ego
+- Don't blame people
+- Listen to others and consider their viewpoints
+
+> **Tip 82 - Don't Go into the Code Alone**
+
+## Topic 48 - The Essence of Agility
+
+> **Tip 83 - Agile Is Not a Noun; Agile Is How You Do Things**
+
+- Agile is being able to respond to change
+- Agile is not about processes 
+- Work out where you are -> Make small step toward your objectif -> Reevaluate and fix broken things -> Loop 
