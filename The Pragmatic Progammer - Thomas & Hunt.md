@@ -524,3 +524,11 @@ Find root cause, find who does this benefit, consider context and use cases
 
 ## Topic 46 - Solving Impossible Puzzles
 
+- Identify hard constraints and soft constraints
+- "Think Outside the Box" refers to constraints. By finding soft constraints, you create a bigger box of possible solutions
+
+> **Tip 81 - Don't Think Outside the Box -- Find the Box**
+
+- Have breaks, sleep, or rubber duck
+
+## Topic 47 - Working Together
