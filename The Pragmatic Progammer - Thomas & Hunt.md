@@ -581,3 +581,33 @@ Find root cause, find who does this benefit, consider context and use cases
 > **Tip 88 - Deliver When Users Need it**
 
 - Fit your methods to deliver more often
+
+## Topic 51 - Pragmatic Starter Kit
+
+- Interrelated essentials parts: version control, testing and automation 
+
+> **Tip 89 - Use Version Control to Drive Builds, Tests, and Releases**
+
+- Commit and push trigger tests and automated release
+
+> **Tip 90 - Test Early, Test Often, Test Automatically**
+
+> **Tip 91 - Coding Ain't Done Until All the Tests Run**
+
+- Tests are versioned, and run automatically
+- Write unit, integration, performance, property based tests
+- Make sure you tests catches the bug by temporarily creating one 
+
+> **Tip 92 - Use Saboteurs to Test Your Testing**
+
+- Testing your application state coverage is more important than code coverage: use property based testing
+
+> **Tip 93 - Test State Coverage, Not Code Coverage**
+
+- If you have a bug your tests didn't catch, write a test that will catch it
+
+> **Tip 94 - Find Bugs Once**
+
+- Automate everything 
+
+> **Tip 95 - Don't Use Manual Procedures**
