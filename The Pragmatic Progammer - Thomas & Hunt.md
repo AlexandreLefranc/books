@@ -570,3 +570,14 @@ Find root cause, find who does this benefit, consider context and use cases
 - Automate if possible: formatting, tests, deployment...
 
 ## Topic 50 - Coconuts Don't Cut It
+
+- Use the tools that for your need.
+
+> **Tip 87 - Do What Works, Not What's Fashionable**
+
+- Take bits of each methods to build your own method
+- The goal is to deliver working software to user 
+
+> **Tip 88 - Deliver When Users Need it**
+
+- Fit your methods to deliver more often
