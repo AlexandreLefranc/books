@@ -611,3 +611,16 @@ Find root cause, find who does this benefit, consider context and use cases
 - Automate everything 
 
 > **Tip 95 - Don't Use Manual Procedures**
+
+## Topic 52 - Delight Your Users
+
+- The software is only a mean to solve a business problem
+- Create a strong relationship with your client
+
+> **Tip 96 - Delight Users, Don't Just Deliver Code**
+
+## Topic 53 - Pride and Prejudice
+
+> **Tip 97 - Sign Your Work**
+
+- Be proud of your work. don't be an anonymous contributor 
